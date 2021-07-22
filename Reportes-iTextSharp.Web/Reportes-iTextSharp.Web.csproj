@@ -5,4 +5,8 @@
     <RootNamespace>Reportes_iTextSharp.Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="iTextSharp.LGPLv2.Core" Version="1.6.1" />
+  </ItemGroup>
+
 </Project>
